@@ -1,0 +1,140 @@
+/* ----------------------------------------------------------------
+    Retina Specific CSS
+-----------------------------------------------------------------*/
+
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) {
+
+
+    #logo a.standard-logo { display: none !important; }
+
+    #logo a.retina-logo { display: inline-block; }
+
+
+    .flex-prev,
+    .flex-next {
+        background-image: url("../images/icons/flex-arrow@2x.png");
+        background-size: 64px 56px;
+        -moz-background-size: 64px 56px;
+        -webkit-background-size: 64px 56px;
+        -o-background-size: 64px 56px;
+    }
+
+    .preloader,
+    .preloader2,
+    .light .preloader2 {
+        background-image: url("../images/preloader@2x.gif");
+        background-size: 32px 32px;
+        -moz-background-size: 32px 32px;
+        -webkit-background-size: 32px 32px;
+        -o-background-size: 32px 32px;
+    }
+
+    .light .preloader2 { background-image: url("images/preloader-dark@2x.gif"); }
+
+    #top-search input,
+    .widget_search input[type="text"] {
+        background-image: url("../images/icons/search@2x.png");
+        background-size: 31px 16px;
+        -moz-background-size: 31px 16px;
+        -webkit-background-size: 31px 16px;
+        -o-background-size: 31px 16px;
+    }
+
+    .lp-subscribe input[type="text"] {
+        background-image: url("../images/icons/subscribe@2x.png");
+        background-size: 38px 15px;
+        -moz-background-size: 38px 15px;
+        -webkit-background-size: 38px 15px;
+        -o-background-size: 38px 15px;
+    }
+
+    .error-404-meta input[type="submit"] {
+        background-image: url("../images/icons/search-404@2x.png");
+        background-size: 17px 16px;
+        -moz-background-size: 17px 16px;
+        -webkit-background-size: 17px 16px;
+        -o-background-size: 17px 16px;
+    }
+
+    .toggle .togglet,
+    .toggle .toggleta,
+    .acctitle,
+    .acctitlec {
+        background-image: url("../images/icons/toggle-plus@2x.png");
+        background-size: 16px 16px;
+        -moz-background-size: 16px 16px;
+        -webkit-background-size: 16px 16px;
+        -o-background-size: 16px 16px;
+    }
+
+    .toggle .toggleta,
+    .acctitlec { background-image: url("../images/icons/toggle-minus@2x.png"); }
+    
+    .quote {
+        background-image: url("../images/icons/quote@2x.png");
+        background-size: 45px 29px;
+        -moz-background-size: 45px 29px;
+        -webkit-background-size: 45px 29px;
+        -o-background-size: 45px 29px;
+    }
+
+    .twitter-widget ul li,
+    #footer.footer-dark .twitter-widget ul li {
+        background-image: url("../images/icons/twitter@2x.png");
+        background-size: 13px 13px;
+        -moz-background-size: 13px 13px;
+        -webkit-background-size: 13px 13px;
+        -o-background-size: 13px 13px;
+    }
+
+
+    #footer.footer-dark .twitter-widget ul li { background-image: url("../images/icons/ftwitter@2x.png"); }
+
+    .widget_recent_comments li,
+    #footer.footer-dark .widget_recent_comments li {
+        background-image: url("../images/icons/sidebar-comment@2x.png");
+        background-size: 15px 26px;
+        -moz-background-size: 15px 26px;
+        -webkit-background-size: 15px 26px;
+        -o-background-size: 15px 26px;
+    }
+
+    #footer.footer-dark .widget_recent_comments li { background-image: url("../images/icons/footer-comment@2x.png"); }
+
+    .widget_nav_menu li a,
+    .widget_links li a,
+    .widget_meta li a,
+    .widget_archive li a,
+    .widget_recent_entries li a,
+    .widget_categories li a,
+    .widget_pages li a,
+    #footer.footer-dark .widget_nav_menu li a,
+    #footer.footer-dark .widget_links li a,
+    #footer.footer-dark .widget_meta li a,
+    #footer.footer-dark .widget_archive li a,
+    #footer.footer-dark .widget_recent_entries li a,
+    #footer.footer-dark .widget_categories li a,
+    #footer.footer-dark .widget_pages li a {
+        background-image: url("../images/icons/sidebar-link@2x.png");
+        background-size: 4px 26px;
+        -moz-background-size: 4px 26px;
+        -webkit-background-size: 4px 26px;
+        -o-background-size: 4px 26px;
+    }
+
+    #footer.footer-dark .widget_nav_menu li a,
+    #footer.footer-dark .widget_links li a,
+    #footer.footer-dark .widget_meta li a,
+    #footer.footer-dark .widget_archive li a,
+    #footer.footer-dark .widget_recent_entries li a,
+    #footer.footer-dark .widget_categories li a,
+    #footer.footer-dark .widget_pages li a { background-image: url("../images/icons/footer-link@2x.png"); }
+
+}

@@ -1,0 +1,135 @@
+/* ----------------------------------------------------------------
+    Colors
+-----------------------------------------------------------------*/
+
+
+a,
+h1 span,
+h2 span,
+h3 span,
+h4 span,
+h5 span,
+h6 span,
+.top-cart-item-desc a:hover,
+.top-checkout-wrap span.top-checkout-price,
+.slider-caption span,
+#portfolio-filter li a:hover,
+#portfolio-filter li.activeFilter a,
+.portfolio-item h3 a:hover,
+.product-title h3 a:hover,
+.product-price,
+#portfolio-navigation a:hover,
+.product-single .product-price,
+.entry_format,
+.comments-icon,
+.post-navigation a:hover,
+.comment-content .comment-author a:hover,
+.promo h3 > span,
+.error-404,
+.product-feature3:hover span,
+.hi-icon-effect-3b.hi-icon,
+.hi-icon-effect-4.hi-icon,
+.hi-icon-effect-5.hi-icon,
+.hi-icon-effect-6.hi-icon,
+.hi-icon-effect-7.hi-icon,
+.hi-icon-effect-9.hi-icon,
+.counter,
+.button:hover,
+.button.inverse,
+.best-price .pricing-price,
+.widget-scroll-prev:hover,
+.widget-scroll-next:hover { color: #FF8300; }
+
+
+/* ----------------------------------------------------------------
+    Background Colors
+-----------------------------------------------------------------*/
+
+
+#primary-menu.primary-menu2 ul li.backLava,
+#primary-menu.primary-menu3 ul li.backLava,
+.product-sale,
+.product-overlay a:hover,
+span#product-quantity-plus:hover,
+span#product-quantity-minus:hover,
+.error-404-meta input[type="submit"],
+.product-feature img,
+.product-feature > span,
+.hi-icon-effect-1.hi-icon,
+.hi-icon-effect-2.hi-icon:after,
+.hi-icon-effect-3.hi-icon:after,
+.hi-icon-effect-8.hi-icon,
+.sidenav > .ui-tabs-active > a,
+.sidenav > .ui-tabs-active > a:hover,
+.lp-subscribe input[type="submit"],
+.team-image span,
+.i-rounded:hover,
+.i-circled:hover,
+.simple-button.inverse,
+.simple-button:hover,
+.best-price .pricing-title,
+ul.tab-nav.tab-nav2 li.ui-state-active a,
+#gotoTop:hover,
+a.twitter-follow-me:hover,
+#footer.footer-dark a.twitter-follow-me:hover,
+.sposts-list .spost-image:hover,
+#footer.footer-dark .sposts-list .spost-image:hover,
+.tagcloud a:hover,
+#footer.footer-dark .tagcloud a:hover { background-color: #FF8300; }
+
+.responsive-menu { background-color: #FF8300 !important; }
+
+
+/* ----------------------------------------------------------------
+    Border Colors
+-----------------------------------------------------------------*/
+
+
+.top-cart-item-image,
+.flex-control-thumbs li img.flex-active,
+#portfolio-navigation a:hover,
+.entry_format,
+.comments-icon,
+.comment-content .comment-author a:hover,
+.hi-icon-effect-4.hi-icon:after,
+.button:hover,
+.button.inverse,
+.widget-scroll-prev:hover,
+.widget-scroll-next:hover { border-color: #FF8300; }
+
+
+#top-bar-wrapper,
+#primary-menu.primary-menu2 ul li.selectedLava,
+#primary-menu.primary-menu3 ul li.selectedLava,
+#primary-menu ul ul,
+.top-links ul ul,
+.top-links ul div.top-link-section,
+#footer,
+#copyrights { border-top-color: #FF8300; }
+
+
+span.page-divider span { border-bottom-color: #FF8300; }
+
+
+#primary-menu ul ul ul { border-left-color: #FF8300; }
+
+
+.hi-icon-effect-2.hi-icon,
+.hi-icon-effect-3.hi-icon,
+.hi-icon-effect-3a.hi-icon,
+.hi-icon-effect-4.hi-icon,
+.hi-icon-effect-5.hi-icon,
+.hi-icon-effect-6.hi-icon,
+.hi-icon-effect-7.hi-icon,
+.hi-icon-effect-7a.hi-icon:after,
+.hi-icon-effect-9.hi-icon:after { box-shadow: 0 0 0 3px #FF8300; }
+
+
+/* ----------------------------------------------------------------
+    Selection Colors
+-----------------------------------------------------------------*/
+
+
+::selection,
+::-moz-selection,
+::-webkit-selection { background-color: #FF8300; }

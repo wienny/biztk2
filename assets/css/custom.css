@@ -1,0 +1,168 @@
+/* add css */
+.cm6-w {
+	min-width:400px !important;
+}
+.col-md-6-ws1 {
+	position:relative;
+	min-height:1px;
+	padding-left:15px;
+	padding-right:15px;
+	float:left;
+	width:60%;
+}
+.col-md-6-ws2 {
+	position:relative;
+	min-height:1px;
+	padding-left:15px;
+	padding-right:15px;
+	float:left;
+	width:40%;
+}
+.col-md-4-ws1 {
+	position:relative;
+	min-height:1px;
+	padding-left:15px;
+	padding-right:15px;
+	float:left;
+	width:40%;
+}
+.col-md-ws2 {
+	position:relative;
+	min-height:1px;
+	padding-left:15px;
+	padding-right:15px;
+	float:left;
+	width:20%;
+}
+.col-md-ws4 {
+	position:relative;
+	min-height:1px;
+	padding-left:15px;
+	padding-right:15px;
+	float:left;
+	width:40%;
+}
+.page-content-wrapper { /* pc전용 버전일때만 적용 */
+	min-width:1240px;
+}
+.phone-body {
+	background-image:url(../img/ws_phonebg02.jpg);
+	background-size: auto 100%  ;
+}
+.phone-body table{
+	border:none;
+	background-image:url(../img/ws_smartphoneBg.png);
+	width:360px;
+	height:710px;
+}
+.phone_contents{
+	width:320px;
+	height:480px;
+	background-color:#000;
+	position:relative;
+	left:20px;
+	top:-6px;
+}
+.page-sidebar-menu {
+	word-break: keep-all;
+}
+.slider{
+	width:200px !important;
+}
+.col-md-10 .checkbox-inline {
+	padding-left:0 !important;
+}
+.col-md-9 .checkbox-inline {
+	padding-left:0 !important;
+}
+.col-md-10 .switch-h {
+	padding-top:5px;
+}
+.width-200 {
+	width:200px !important;
+}
+.col-w {
+	margin-left:15px;margin-right:15px
+}
+.col-md-12 box {
+	padding-bottom:0 !important;
+}
+
+.portlet.box.ws > .portlet-title {  
+   padding:8px 10px 2px 10px;
+   border-bottom: 0px solid #eee;
+   color: #fff !important;
+}
+.portlet.box.ws {  
+   padding:0 !important;
+   border-bottom: 0px solid #eee;
+   color: #fff !important;
+   margin-bottom:4px; !important;
+}
+
+.portlet > .portlet-title > .caption-ws {
+	float:left;  
+  display: inline-block;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 300;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 8px; 
+}
+
+.portlet > .portlet-title > .caption-ws > i {
+	float:left;
+  margin-top: 4px;
+  display: inline-block !important;
+  font-size: 13px;
+  margin-right: 5px;
+  color: #666;
+}
+
+.portlet.blue > .portlet-title > .caption-ws,
+.portlet.green > .portlet-title > .caption-ws, 
+.portlet.yellow > .portlet-title > .caption-ws,
+.portlet.red > .portlet-title > .caption-ws, 
+.portlet.purple > .portlet-title > .caption-ws, 
+.portlet.grey > .portlet-title > .caption-ws {
+  color: #fff;
+}
+
+.portlet.box.blue > .portlet-title > .caption-ws > i, 
+.portlet.box.green > .portlet-title > .caption-ws > i,
+.portlet.box.grey > .portlet-title > .caption-ws > i,
+.portlet.box.yellow > .portlet-title > .caption-ws > i, 
+.portlet.box.red > .portlet-title > .caption-ws > i,  
+.portlet.box.purple > .portlet-title > .caption-ws > i, 
+.portlet.box.light-grey > .portlet-title > .caption-ws > i{
+  color: #fff;
+}
+.col-ws{
+	padding:0 15px 0 15px;
+}
+.ws-ico-margin{
+	margin-top:-4px;
+}
+.fa-ws {
+	font-size:24px !important;
+}
+
+/* 업로드전 preview */
+#logo_image {
+ position: absolute;
+ left: 20px;
+ width: 100px;
+ height: 120px;
+ border: 1px solid rgb(0, 0, 0);
+ background-color: rgb(0, 0, 0);
+ background-size: cover;
+ background-position: 50% 50%;
+ background-repeat: no-repeat no-repeat;	
+}
+
+#logo_image img {
+ width: 100px;
+ height: 120px;
+}
+

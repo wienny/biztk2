@@ -1,0 +1,75 @@
+/* ----------------------------------------------------------------
+    add setting
+-----------------------------------------------------------------*/
+
+    .margin-top-10 {
+		margin-top:10px;
+    }
+	.margin-bottom-10 {
+		margin-bottom:10px;
+    }
+	.margin-bottom-20 {
+		margin-bottom:20px;
+    }
+	.margin-bottom-30 {
+		margin-bottom:30px;
+    }
+	.title-bg-image01{
+		background-image:url(../images/bg/3.jpg);
+		background-size:100% auto;
+	}
+	.sold-out{
+		text-decoration:line-through;		t
+	}
+	ul.tab-nav li {
+		width:10%;
+		overflow:hidden;
+	}
+	#comments-karis {
+    position: relative;
+    margin-top: 10px;
+    padding: 40px 0 0 84px;
+    border-top: 1px solid #EEE;
+    }
+	.post-grid .entry_c_kariss {
+    float: none;
+    padding: 0 15px 15px;
+    margin: 0;
+    width: 90%;
+    }
+	.entry_meta h3{
+		color:#F90;
+	}
+	.flexslider .slider-wrap .slide img {
+		
+		border-bottom: 1px solid #DDD ;
+	}
+	.simple-button-kakao{
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+  	outline: none;
+  	white-space: nowrap;
+  	margin: 5px;
+    color: #f5e91f;
+    font-size: 13px;
+    font-family: "Open Sans", sans-serif;
+    padding: 0 15px;
+    font-weight: bold;
+    line-height: 36px;
+    background: #40292c;
+    border: none;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.3);
+    transition: background-color .2s linear;
+    -moz-transition: background-color .2s linear;
+    -webkit-transition: background-color .2s linear;
+    -ms-transition: background-color .2s linear;
+    -o-transition: background-color .2s linear;
+    }
+	.simple-button-kakao:hover {
+    background: #f9e900;
+    color: #000;
+    }
+	.line-dark {
+    border-bottom: 1px solid #ddd;
+	}

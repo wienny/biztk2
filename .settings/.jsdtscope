@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="lib/ajax.js|se/js/HuskyEZCreator.js|se/js/SE_CustomPlugins.js|se/js/jindo.min.js|source/helpers/jquery.fancybox-buttons.js|source/helpers/jquery.fancybox-media.js|source/helpers/jquery.fancybox-thumbs.js|source/jquery.fancybox.js|source/jquery.fancybox.pack.js" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
