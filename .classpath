@@ -11,5 +11,8 @@
 	<classpathentry kind="lib" path="WEB-INF/lib/json-simple-1.1.1.jar"/>
 	<classpathentry kind="lib" path="D:/apache-tomcat-7.0.53/lib/jsp-api.jar"/>
 	<classpathentry kind="lib" path="WEB-INF/lib/javax.servlet.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/gcm-server.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/JavaPNS_2.2.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/commons-lang.jar"/>
 	<classpathentry kind="output" path="WEB-INF/classes"/>
 </classpath>
